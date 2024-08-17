@@ -71,7 +71,7 @@ Skills: JS / HTML / CSS / BOOTSTRAP
 
 <p align="center">
   <a href="https://github.com/RERM-SUMAIYA">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Sumaiya's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RERM-SUMAIYA&theme=radical" alt="Sumaiya's GitHub Contribution"/>
   </a>
 </p>
 
